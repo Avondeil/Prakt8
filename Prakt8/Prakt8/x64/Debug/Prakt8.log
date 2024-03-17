@@ -1,0 +1,3 @@
+﻿  Prakt8.cpp
+C:\Users\kiril\Downloads\Prakt8\Prakt8.cpp(31,9): warning C4101: inventoryNumber: неиспользованная локальная переменная
+  Prakt8.vcxproj -> C:\Users\kiril\Downloads\Prakt8\x64\Debug\Prakt8.exe
